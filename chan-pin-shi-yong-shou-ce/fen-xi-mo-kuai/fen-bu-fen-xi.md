@@ -4,7 +4,7 @@
 
 ## 分布分析界面概览
 
-![](https://github.com/liushuang1205/docs/tree/a719f2f10fc28d1876d9d801a669c16a4e35f7df/配图/分布分析/分布分析界面.png?raw=true)
+![](https://raw.githubusercontent.com/liushuang1205/docs/a719f2f10fc28d1876d9d801a669c16a4e35f7df/配图/分布分析/分布分析界面.png?raw=true)
 
 **分布分析界面概览**
 
