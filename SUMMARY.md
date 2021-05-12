@@ -1,4 +1,5 @@
 # Table of contents
 
-* [ArrayBlockingQueue](README.md)
+* [ArrayBlockingQueue](ArrayBlockingQueue.md)
+* [Java SDK](Java SDK.md)
 
