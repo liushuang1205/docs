@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [文档导引](wen-dang-dao-yin.md)
+* [文档导引](README.md)
 * [产品使用手册](chan-pin-shi-yong-shou-ce/README.md)
   * [基础概念解释](chan-pin-shi-yong-shou-ce/ji-chu-gai-nian-jie-shi/README.md)
     * [事件](chan-pin-shi-yong-shou-ce/ji-chu-gai-nian-jie-shi/shi-jian.md)
