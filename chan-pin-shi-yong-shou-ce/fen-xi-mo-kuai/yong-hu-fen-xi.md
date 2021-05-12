@@ -69,7 +69,7 @@
 
 ## 保存书签
 
-![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图户分析/保存与下载.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分析/保存与下载.png)
 
 **保存书签**
 
@@ -81,7 +81,7 @@
 
 ## 数据下载
 
-![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图户分析/保存与下载.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分析/保存与下载.png)
 
 **保存书签**
 

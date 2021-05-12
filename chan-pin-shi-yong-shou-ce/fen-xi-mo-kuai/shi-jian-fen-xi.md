@@ -2,7 +2,7 @@
 
 ## 事件分析界面概览
 
-![](https://raw.githubusercontent.com/liushuang1205/docs/127e894995cbb95a265191ed1a34a84385c804b6/配图件分析/事件分析界面.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/127e894995cbb95a265191ed1a34a84385c804b6/配图/事件分析/事件分析界面.png)
 
 **事件分析界面**
 
@@ -38,7 +38,7 @@
 
 ### 同时展示多个事件与指标
 
-![](https://raw.githubusercontent.com/liushuang1205/docs/127e894995cbb95a265191ed1a34a84385c804b6/配图件分析/添加多个事件与指标.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/127e894995cbb95a265191ed1a34a84385c804b6/配图/事件分析/添加多个事件与指标.gif)
 
 **添加事件指标**
 
@@ -78,7 +78,7 @@
 
 ### 时间范围选择
 
-![](https://raw.githubusercontent.com/liushuang1205/docs/127e894995cbb95a265191ed1a34a84385c804b6/配图件分析/时间范围选择.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/127e894995cbb95a265191ed1a34a84385c804b6/配图/事件分析/时间范围选择.png)
 
 **时间范围选择**
 
@@ -98,7 +98,7 @@
 
 当以表格展示数据时，根据选择维度数量的不同，表格的展现有所不同，共分为无维度、单维度、多维度三种情形：
 
-![](https://raw.githubusercontent.com/liushuang1205/docs/127e894995cbb95a265191ed1a34a84385c804b6/配图件分析/表格与维度.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/127e894995cbb95a265191ed1a34a84385c804b6/配图/事件分析/表格与维度.gif)
 
 ### 保存书签
 
