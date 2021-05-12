@@ -50,7 +50,7 @@
             * [小程序SDK](zall-data/小程序SDK.md)
             * [Web JS SDK](zall-data/Web JS SDK.md)
         * [服务端SDK](zall-data/服务端SDK.md)
-            * [Java SDK](../zall-data/Java SDK.md)
+            * [Java SDK](./zall-data/Java SDK.md)
         * [预置事件与预置属性](zall-data/预置事件与预置属性.md)
             * [App SDK预置](zall-data/App SDK预置.md)
 
