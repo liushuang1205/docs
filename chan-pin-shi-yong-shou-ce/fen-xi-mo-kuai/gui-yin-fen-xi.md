@@ -6,19 +6,19 @@
 
 ## 归因分析界面概览
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/归因分析/归因分析.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/归因分析/归因分析.png)
 
 **归因分析界面**
 
 ## 查询条件配置方法
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/归因分析/查询条件配置.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/归因分析/查询条件配置.png)
 
 **查询条件配置**
 
 ### 配置目标转化事件
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/归因分析/配置目标转化事件.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/归因分析/配置目标转化事件.gif)
 
 **配置目标转化事件**
 
@@ -40,7 +40,7 @@
 
 ### 配置待归因事件
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/归因分析/配置待归因事件.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/归因分析/配置待归因事件.gif)
 
 **配置待归因事件**
 
@@ -60,7 +60,7 @@
 
 ### 直接转化参与计算开关
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/归因分析/直接转化参与归因计算开关.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/归因分析/直接转化参与归因计算开关.png)
 
 **直接转化参与计算开关**
 
@@ -72,7 +72,7 @@
 
 * 首次触点模型
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/归因分析/1.jpg)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/归因分析/1.jpg)
 
 **首次触点模型**
 
@@ -80,7 +80,7 @@
 
 * 末次触点模型
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/归因分析/2.jpg)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/归因分析/2.jpg)
 
 **末次触点模型**
 
@@ -88,7 +88,7 @@
 
 * 线性归因模型
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/归因分析/3.jpg)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/归因分析/3.jpg)
 
 **线性归因模型**
 
@@ -96,7 +96,7 @@
 
 * 位置归因模型
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/归因分析/4.jpg)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/归因分析/4.jpg)
 
 **位置归因模型**
 
@@ -104,7 +104,7 @@
 
 * 时间衰减归因模型
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/归因分析/5.jpg)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/归因分析/5.jpg)
 
 **时间衰减归因模型**
 
@@ -114,7 +114,7 @@
 
 ### 归因窗口期
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/归因分析/设置归因窗口期.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/归因分析/设置归因窗口期.png)
 
 **选择归因窗口期**
 
@@ -140,7 +140,7 @@
 
 ### 公共筛选条件
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/归因分析/公共筛选条件.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/归因分析/公共筛选条件.gif)
 
 **公共筛选条件**
 
@@ -150,7 +150,7 @@
 
 ### 分析用户群
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/归因分析/分析用户群.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/归因分析/分析用户群.gif)
 
 **分析用户群**
 
@@ -158,7 +158,7 @@
 
 ### 归因分析结果图表解释
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/归因分析/归因分析结果图表.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/归因分析/归因分析结果图表.png)
 
 **归因分析结果图表**
 

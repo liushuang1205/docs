@@ -16,7 +16,7 @@
 
 ## 界面各标签释义
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/虚拟事件/虚拟事件界面.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/虚拟事件/虚拟事件界面.png)
 
 **虚拟事件管理界面截图**
 
@@ -40,7 +40,7 @@
 
 ## 虚拟事件的创建方法
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/虚拟事件/新建虚拟事件.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/虚拟事件/新建虚拟事件.gif)
 
 **新建虚拟事件**
 

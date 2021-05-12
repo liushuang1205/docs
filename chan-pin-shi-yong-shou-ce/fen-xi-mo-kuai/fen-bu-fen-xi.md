@@ -10,7 +10,7 @@
 
 ## 查询条件配置方法
 
-![](https://github.com/liushuang1205/docs/tree/a719f2f10fc28d1876d9d801a669c16a4e35f7df/配图/分布分析/未标题-1.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/a719f2f10fc28d1876d9d801a669c16a4e35f7df/配图/分布分析/未标题-1.png)
 
 **分布分析查询条件配置**
 
@@ -132,7 +132,7 @@ B.触发时间
 
 ### 自定义区间
 
-![](https://github.com/liushuang1205/docs/tree/a719f2f10fc28d1876d9d801a669c16a4e35f7df/配图/分布分析/未标题-1.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/a719f2f10fc28d1876d9d801a669c16a4e35f7df/配图/分布分析/未标题-1.png)
 
 **自定义区间**
 
@@ -146,7 +146,7 @@ B.触发时间
 
 ### 公共筛选条件
 
-![](https://github.com/liushuang1205/docs/tree/a719f2f10fc28d1876d9d801a669c16a4e35f7df/配图/分布分析/公共筛选条件.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/a719f2f10fc28d1876d9d801a669c16a4e35f7df/配图/分布分析/公共筛选条件.png)
 
 **公共筛选条件**
 
@@ -154,7 +154,7 @@ B.触发时间
 
 ### 分析维度
 
-![](https://github.com/liushuang1205/docs/tree/a719f2f10fc28d1876d9d801a669c16a4e35f7df/配图/分布分析/分析维度.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/a719f2f10fc28d1876d9d801a669c16a4e35f7df/配图/分布分析/分析维度.png)
 
 **分析维度**
 
@@ -166,7 +166,7 @@ B.触发时间
 
 ### 分析用户群
 
-![](https://github.com/liushuang1205/docs/tree/a719f2f10fc28d1876d9d801a669c16a4e35f7df/配图/分布分析/分析用户群.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/a719f2f10fc28d1876d9d801a669c16a4e35f7df/配图/分布分析/分析用户群.png)
 
 **分析用户群**
 
@@ -176,7 +176,7 @@ B.触发时间
 
 ### 时间范围选择
 
-![](https://github.com/liushuang1205/docs/tree/a719f2f10fc28d1876d9d801a669c16a4e35f7df/配图/分布分析/日期时间选择器-不带对比周期.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/a719f2f10fc28d1876d9d801a669c16a4e35f7df/配图/分布分析/日期时间选择器-不带对比周期.png)
 
 **时间范围选择**
 
@@ -184,7 +184,7 @@ B.触发时间
 
 ### 保存书签
 
-![](https://github.com/liushuang1205/docs/tree/a719f2f10fc28d1876d9d801a669c16a4e35f7df/配图/分布分析/保存与下载.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/a719f2f10fc28d1876d9d801a669c16a4e35f7df/配图/分布分析/保存与下载.png)
 
 **保存书签**
 
@@ -196,7 +196,7 @@ B.触发时间
 
 ### 数据下载
 
-![](https://github.com/liushuang1205/docs/tree/a719f2f10fc28d1876d9d801a669c16a4e35f7df/配图/分布分析/保存与下载.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/a719f2f10fc28d1876d9d801a669c16a4e35f7df/配图/分布分析/保存与下载.png)
 
 **保存书签**
 

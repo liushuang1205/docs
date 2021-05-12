@@ -4,13 +4,13 @@
 
 ## 漏斗分析界面概览
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图斗分析/漏斗分析界面.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图斗分析/漏斗分析界面.png)
 
 **漏斗分析界面**
 
 ## 查询条件配置方法
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图斗分析/查询条件配置.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图斗分析/查询条件配置.gif)
 
 **查询条件配置**
 
@@ -52,7 +52,7 @@
 
 ## 公共筛选条件
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图斗分析/公共筛选条件.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图斗分析/公共筛选条件.gif)
 
 **公共筛选条件**
 
@@ -64,7 +64,7 @@
 
 ### 漏斗分析中分析维度的特殊应用
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图斗分析/分析维度.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图斗分析/分析维度.gif)
 
 **分析维度**
 
@@ -74,7 +74,7 @@
 
 在展示功能区的图表展示状态下，漏斗转化图下方将同时展示所选维度按照时间的变化趋势。
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图斗分析/分析维度-图表分组.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图斗分析/分析维度-图表分组.png)
 
 **分析维度分组数据表**
 
@@ -106,7 +106,7 @@
 
 ## 分析用户群
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图斗分析/分析用户群.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图斗分析/分析用户群.gif)
 
 **分析用户群**
 
@@ -114,7 +114,7 @@
 
 ## 时间范围选择
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图斗分析/时间范围选择.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图斗分析/时间范围选择.png)
 
 **时间范围选择**
 
@@ -124,7 +124,7 @@
 
 ### 漏斗转化图
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/漏斗分析/漏斗图表.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/漏斗分析/漏斗图表.png)
 
 **漏斗转化图**
 
@@ -138,7 +138,7 @@
 
 ### 漏斗转化趋势图
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/漏斗分析/漏斗趋势图.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/漏斗分析/漏斗趋势图.png)
 
 **漏斗趋势图**
 
@@ -150,7 +150,7 @@
 
 ### 漏斗转化数据表
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图斗分析/漏斗转化数据表.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图斗分析/漏斗转化数据表.png)
 
 **漏斗转化数据表**
 
@@ -170,7 +170,7 @@
 
 #### 总体转化趋势数据表
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图斗分析/漏斗转化趋势数据表-总体.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图斗分析/漏斗转化趋势数据表-总体.png)
 
 **漏斗转化趋势数据表-总体**
 
@@ -182,7 +182,7 @@
 
 #### 分步骤转化趋势数据表
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图斗分析/漏斗转化数据表-分步骤.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图斗分析/漏斗转化数据表-分步骤.png)
 
 **漏斗转化趋势数据表-分步骤**
 
@@ -200,7 +200,7 @@
 
 ## 保存书签
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图斗分析/保存与下载.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图斗分析/保存与下载.png)
 
 **保存书签**
 
@@ -212,7 +212,7 @@
 
 ## 数据下载
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图斗分析/保存与下载.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图斗分析/保存与下载.png)
 
 **保存书签**
 

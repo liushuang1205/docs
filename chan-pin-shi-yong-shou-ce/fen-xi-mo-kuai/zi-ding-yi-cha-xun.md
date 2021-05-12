@@ -6,13 +6,13 @@
 
 ## 自定义查询界面概览
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/自定义查询/自定义查询界面.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/自定义查询/自定义查询界面.png)
 
 **自定义查询界面**
 
 ## 标签释义
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/自定义查询/自定义查询界面顶部标签.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/自定义查询/自定义查询界面顶部标签.png)
 
 **自定义查询界面顶部标签**
 
@@ -28,7 +28,7 @@
 
 ### 获取字段名
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/自定义查询/表名与字段名.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/自定义查询/表名与字段名.png)
 
 **表名与字段名**
 
@@ -36,7 +36,7 @@
 
 ### 执行查询
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/自定义查询/SQL语句查询.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/自定义查询/SQL语句查询.png)
 
 **SQL语句查询**
 
@@ -44,7 +44,7 @@
 
 ### 保存查询条件
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/自定义查询/保存查询条件.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/自定义查询/保存查询条件.png)
 
 **保存查询条件**
 
@@ -52,7 +52,7 @@
 
 ### 执行新查询
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/自定义查询/执行新查询.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/自定义查询/执行新查询.png)
 
 **执行新查询**
 

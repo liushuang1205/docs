@@ -6,7 +6,7 @@
 
 ## 新建项目
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/项目管理/新建项目.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/项目管理/新建项目.gif)
 
 **项目管理界面截图**
 

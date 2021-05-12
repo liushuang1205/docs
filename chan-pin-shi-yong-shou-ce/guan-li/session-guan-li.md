@@ -2,7 +2,7 @@
 
 ## Session管理界面框架
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/Session管理/Session管理界面.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/Session管理/Session管理界面.png)
 
 **Session管理界面截图**
 
@@ -32,7 +32,7 @@ Session管理界面设有**Session ID**，**Session显示名称**，**Session包
 
 ## 修改Session显示名称
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/Session管理/修改Session显示名称.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/Session管理/修改Session显示名称.gif)
 
 **Session名称修改按钮截图**
 
@@ -40,7 +40,7 @@ Session管理界面设有**Session ID**，**Session显示名称**，**Session包
 
 ## 添加Session规则
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/Session管理/添加session规则.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/Session管理/添加session规则.gif)
 
 **Session编辑床截图**
 

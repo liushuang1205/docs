@@ -4,7 +4,7 @@
 
 ## 用户分析界面概览
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分析/用户分析.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分析/用户分析.png)
 
 **用户分析界面概览**
 
@@ -12,7 +12,7 @@
 
 ### 指标配置
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分析/查询条件配置.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分析/查询条件配置.gif)
 
 **用户分析查询条件配置**
 
@@ -51,7 +51,7 @@
 
 ### 分析维度
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分析/分析维度.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分析/分析维度.gif)
 
 **分析维度**
 
@@ -61,7 +61,7 @@
 
 ### 分析用户群
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分析/分析用户群.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分析/分析用户群.gif)
 
 **分析用户群**
 
@@ -69,7 +69,7 @@
 
 ## 保存书签
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图户分析/保存与下载.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图户分析/保存与下载.png)
 
 **保存书签**
 
@@ -81,7 +81,7 @@
 
 ## 数据下载
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图户分析/保存与下载.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图户分析/保存与下载.png)
 
 **保存书签**
 

@@ -8,7 +8,7 @@
 
 ## 用户分群界面概览
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图户分群/用户分群界面.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图户分群/用户分群界面.png)
 
 **用户分群界面**
 
@@ -16,7 +16,7 @@
 
 创建用户分群有三种方式，一种是通过条件规则创建，一种是通过ID上传创建，还有一种是通过分析结果保存创建。
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分群/条件规则创建.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分群/条件规则创建.gif)
 
  **条件规则创建**
 
@@ -46,7 +46,7 @@
 
 ### ID上传创建
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分群/ID上传创建.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分群/ID上传创建.gif)
 
  **ID上传创建**
 
@@ -58,7 +58,7 @@ ID上传适合用户量较小的群组创建。
 
 ### 分析结果保存
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分群/分析结果保存.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分群/分析结果保存.gif)
 
 通过高级分析模型得出人群结果后，点击该数字，在提示框中选择**保存用户分群**，输入分群名称，点击**确认**按钮即可。
 
@@ -120,7 +120,7 @@ ID上传适合用户量较小的群组创建。
 
 ### 用户分群详情页概览
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分群/用户分群详情.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分群/用户分群详情.gif)
 
  **用户分群详情页**
 
@@ -130,7 +130,7 @@ ID上传适合用户量较小的群组创建。
 
 #### 折线图
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分群/分群详情页-折线图.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分群/分群详情页-折线图.png)
 
  **折线图**
 
@@ -138,7 +138,7 @@ ID上传适合用户量较小的群组创建。
 
 #### 自定义表格
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分群/自定义表格.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分群/自定义表格.gif)
 
  **自定义表格**
 
@@ -152,7 +152,7 @@ ID上传适合用户量较小的群组创建。
 
 ### 用户分群详情页时间范围切换
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分群/选择时间范围.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分群/选择时间范围.gif)
 
  **选择时间范围**
 
@@ -160,7 +160,7 @@ ID上传适合用户量较小的群组创建。
 
 ## 用户的行为详情页
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分群/用户行为详情页.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分群/用户行为详情页.gif)
 
  **用户的行为详情页**
 

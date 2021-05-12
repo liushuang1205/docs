@@ -2,13 +2,13 @@
 
 ## 间隔分析界面概览
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/间隔分析/间隔分析界面.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/间隔分析/间隔分析界面.png)
 
 **间隔分析界面概览**
 
 ## 查询条件配置方法
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/间隔分析/起始行为与目标行为.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/间隔分析/起始行为与目标行为.gif)
 
 **起始行为与目标行为**
 
@@ -20,7 +20,7 @@
 
 ### 行为筛选
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/间隔分析/行为筛选.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/间隔分析/行为筛选.gif)
 
 **起始行为与目标行为**
 
@@ -30,7 +30,7 @@
 
 ### 设置关联属性
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/间隔分析/设置关联属性.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/间隔分析/设置关联属性.gif)
 
 **设置关联属性**
 
@@ -44,7 +44,7 @@
 
 ### 公共筛选条件
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/间隔分析/公共筛选条件.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/间隔分析/公共筛选条件.gif)
 
 **公共筛选条件**
 
@@ -54,7 +54,7 @@
 
 ### 分析维度
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/间隔分析/分析维度.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/间隔分析/分析维度.gif)
 
 **分析维度**
 
@@ -78,7 +78,7 @@
 
 ### 分析用户群
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/间隔分析/分析用户群.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/间隔分析/分析用户群.gif)
 
 **分析用户群**
 
@@ -88,7 +88,7 @@
 
 ### 时间范围选择
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/间隔分析/时间范围选择.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/间隔分析/时间范围选择.png)
 
 **时间范围选择**
 
@@ -96,7 +96,7 @@
 
 ### 保存书签
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/间隔分析/保存与下载.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/间隔分析/保存与下载.png)
 
 **保存书签**
 
@@ -108,7 +108,7 @@
 
 ### 数据下载
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/间隔分析/保存与下载.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/间隔分析/保存与下载.png)
 
 **保存书签**
 
@@ -118,11 +118,11 @@
 
 间隔分析的图表只有**盒须图**一种，盒须图样例及数据样例如下图所示：
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/间隔分析/盒须图.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/间隔分析/盒须图.png)
 
 **盒须图图例**
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/间隔分析/数据例.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/间隔分析/数据例.png)
 
 **数据示例**
 
@@ -146,7 +146,7 @@
 
 间隔分析主要计算的是**起始行为**与**目标行为**之间的时间间隔，当用户产生行为数据后，上报的数据会携带事件的触发时间数据，间隔分析就是以此为基础，计算出一系列的统计学指标用以分析。
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/间隔分析/行为序列.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/间隔分析/行为序列.png)
 
 **用户行为序列**
 

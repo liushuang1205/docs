@@ -8,7 +8,7 @@
 
 ## 书签管理界面框架
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/书签管理/书签管理界面.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/书签管理/书签管理界面.png)
 
 **书签管理界面**
 
@@ -32,7 +32,7 @@
 
 ## 添加书签
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/书签管理/保存与下载.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/书签管理/保存与下载.png)
 
 **添加书签按钮**
 
@@ -46,7 +46,7 @@
 
 ## 批量管理书签
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/书签管理/批量管理书签.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/书签管理/批量管理书签.gif)
 
 **批量操作**
 
@@ -60,7 +60,7 @@
 
 ## 书签的筛选与搜索
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图签管理/书签筛选与搜索.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图签管理/书签筛选与搜索.gif)
 
 **筛选与搜索**
 
@@ -74,7 +74,7 @@
 
 ## 书签的修改
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/书签管理/书签修改.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/书签管理/书签修改.gif)
 
 **书签修改**
 

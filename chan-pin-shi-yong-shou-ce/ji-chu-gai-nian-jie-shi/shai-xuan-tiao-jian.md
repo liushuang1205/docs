@@ -73,7 +73,7 @@
 
 执行查询后，返回的数据即为成单时间在2020/11/1-2020/11/10之间的数据。
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/筛选条件/绝对时间.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/筛选条件/绝对时间.png)
 
 **绝对时间**
 
@@ -87,7 +87,7 @@
 
 反之，则可以通过“成单时间-相对当前时间点-7天-之内”这个筛选条件来筛选距离2020/12/15日**7天之内**的数据。
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/筛选条件/相对当前时间点.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/筛选条件/相对当前时间点.png)
 
 **相对当前时间点**
 
@@ -99,7 +99,7 @@
 
 成单时间-相对当前时间区间-【过去5天-过去2天】之内
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/筛选条件/相对当前时间区间.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/筛选条件/相对当前时间区间.png)
 
 **相对当前时间区间**
 

@@ -2,13 +2,13 @@
 
 ## 留存分析界面概览
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/留存分析/留存分析界面.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/留存分析/留存分析界面.png)
 
 **留存分析界面**
 
 ## 查询条件配置方法
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/留存分析/配置初始行为及后续行为.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/留存分析/配置初始行为及后续行为.gif)
 
 **配置初始行为及后续行为**
 
@@ -28,7 +28,7 @@
 
 ### 初始行为或后续行为的事件属性筛选
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图存分析/初始行为或后续行为的事件属性筛选.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图存分析/初始行为或后续行为的事件属性筛选.gif)
 
 **初始行为或后续行为的事件属性筛选**
 
@@ -38,7 +38,7 @@
 
 ### 设置关联属性
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图存分析/设置关联属性.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图存分析/设置关联属性.gif)
 
 **设置关联属性**
 
@@ -46,7 +46,7 @@
 
 ## 用户筛选
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图存分析/用户筛选.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图存分析/用户筛选.gif)
 
 **用户筛选**
 
@@ -56,7 +56,7 @@
 
 ## 分析指标
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/留存分析/分析指标.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/留存分析/分析指标.png)
 
 **分析指标**
 
@@ -70,7 +70,7 @@
 
 ## 分析维度
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图存分析/分析维度.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图存分析/分析维度.gif)
 
 **分析维度**
 
@@ -82,7 +82,7 @@
 
 ## 分析用户群
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图存分析/分析维度.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图存分析/分析维度.gif)
 
 **分析维度**
 
@@ -108,7 +108,7 @@
 
 ### 时间范围选择
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图存分析/时间范围选择.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图存分析/时间范围选择.png)
 
 **时间范围选择**
 
@@ -116,7 +116,7 @@
 
 ### 保存书签
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图存分析/保存与下载.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图存分析/保存与下载.png)
 
 **保存书签**
 
@@ -128,7 +128,7 @@
 
 ### 数据下载
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图存分析/保存与下载.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图存分析/保存与下载.png)
 
 **保存书签**
 

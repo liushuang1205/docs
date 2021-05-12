@@ -2,7 +2,7 @@
 
 ## 属性管理界面框架
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/事件属性&用户属性/界面框架.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/事件属性&用户属性/界面框架.gif)
 
 **属性管理界面截图**
 
@@ -18,7 +18,7 @@
 
 ## 界面各标签释义
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/事件属性&用户属性/事件属性列表.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/事件属性&用户属性/事件属性列表.png)
 
 **属性列表标签截图**
 
@@ -42,7 +42,7 @@
 
 ## 属性显示名称的修改
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/事件属性&用户属性/修改属性显示名.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/事件属性&用户属性/修改属性显示名.gif)
 
 **编辑按钮截图**
 
@@ -68,7 +68,7 @@
 
 ## 属性说明的添加与修改
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/事件属性&用户属性/属性说明.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/事件属性&用户属性/属性说明.gif)
 
 **编辑按钮截图**
 
@@ -92,7 +92,7 @@
 
 ## 字典功能
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/事件属性&用户属性/字典.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/事件属性&用户属性/字典.gif)
 
 **字典效果对比图**
 
@@ -116,7 +116,7 @@ computer,电脑
 
 ### 字典的相关操作
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/事件属性&用户属性/字典操作.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/事件属性&用户属性/字典操作.gif)
 
 **字典操作区截图**
 

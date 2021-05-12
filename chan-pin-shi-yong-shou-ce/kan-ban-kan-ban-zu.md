@@ -20,7 +20,7 @@
 
 ## 看板组的结构
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/首页看板.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/首页看板.png)
 
 **看板组展示图**
 
@@ -36,7 +36,7 @@
 
 ### 添加看板组
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/添加看板组.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/添加看板组.gif)
 
 **添加看板组**
 
@@ -44,7 +44,7 @@
 
 ### 修改看板组名称
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/修改看板组名称.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/修改看板组名称.gif)
 
 **修改看板组名称**
 
@@ -52,7 +52,7 @@
 
 ### 删除看板组
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/删除看板组.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/删除看板组.gif)
 
 **删除看板组**
 
@@ -62,7 +62,7 @@
 
 ### 添加看板
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/添加看板.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/添加看板.gif)
 
 **添加看板**
 
@@ -70,7 +70,7 @@
 
 ### 修改看板名称
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/修改看板名称.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/修改看板名称.gif)
 
 **修改看板名称**
 
@@ -80,7 +80,7 @@
 
 ### 删除看板
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/删除看板组.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/删除看板组.gif)
 
 **删除看板**
 
@@ -88,7 +88,7 @@
 
 ### 添加看板说明
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/添加看板说明.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/添加看板说明.gif)
 
 **添加看板说明**
 
@@ -96,7 +96,7 @@
 
 ### 移动看板分组
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/移动看板分组.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/移动看板分组.gif)
 
 **移动看板分组**
 
@@ -104,7 +104,7 @@
 
 ### 看板共享设置
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/分享看板.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/分享看板.gif)
 
 **分享看板**
 
@@ -134,7 +134,7 @@
 
 ### 从书签管理模块中添加
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/书签管理中添加看板.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/书签管理中添加看板.gif)
 
 **从书签管理中添加**
 
@@ -144,7 +144,7 @@
 
 ### 从分析模块中直接添加
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/从分析模块中添加.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/从分析模块中添加.gif)
 
 **从分析模块中添加**
 
@@ -152,7 +152,7 @@
 
 ### 在看板界面批量添加
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/看板界面批量添加.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/看板界面批量添加.gif)
 
 **从分析模块中添加**
 
@@ -164,7 +164,7 @@
 
 点击右上角最左侧的日历图标，选择所要查询的时间范围，由于同一个看板下涉及到多个图表，该板块支持的最小查询时间范围为一天。
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/切换时间范围.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/切换时间范围.gif)
 
 **切换看板数据时间范围**
 
@@ -182,7 +182,7 @@
 
 ### 查看书签查询条件
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/查看书签查询条件.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/查看书签查询条件.gif)
 
 **查看书签查询条件**
 
@@ -190,7 +190,7 @@
 
 ### 修改书签的尺寸与位置
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/修改书签的尺寸与位置.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/修改书签的尺寸与位置.gif)
 
 **修改书签的尺寸与位置**
 
@@ -200,7 +200,7 @@
 
 ### 删除书签
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/删除书签.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/看板&看板组/删除书签.gif)
 
 **删除书签**
 

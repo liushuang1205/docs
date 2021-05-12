@@ -2,7 +2,7 @@
 
 ## 基本设置界面框架
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图本设置/基本设置.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图本设置/基本设置.gif)
 
 **基本设置界面**
 

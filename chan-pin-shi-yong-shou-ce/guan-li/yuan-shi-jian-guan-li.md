@@ -2,7 +2,7 @@
 
 ## 元事件管理界面框架
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图事件管理/元事件管理界面.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图事件管理/元事件管理界面.png)
 
 **元事件管理界面**
 
@@ -46,7 +46,7 @@
 
 ## 事件显示名的修改
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/元事件管理/事件显示名的修改.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/元事件管理/事件显示名的修改.gif)
 
 **事件显示名称修改**
 
@@ -72,7 +72,7 @@
 
 ## 事件说明的添加与修改
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/元事件管理/事件说明的添加与修改.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/元事件管理/事件说明的添加与修改.gif)
 
 **事件说明编辑**
 
@@ -86,7 +86,7 @@
 
 ## 事件标签的配置
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/元事件管理/事件标签的配置.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/元事件管理/事件标签的配置.gif)
 
 **事件标签的配置**
 
@@ -120,7 +120,7 @@
 
 ## 元事件的编辑
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/元事件管理/元事件编辑弹窗.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/元事件管理/元事件编辑弹窗.gif)
 
 **元事件编辑窗口**
 

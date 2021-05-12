@@ -8,7 +8,7 @@
 
 ## 渠道管理界面概览
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道管理/渠道管理界面.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道管理/渠道管理界面.png)
 
 **渠道管理界面**
 
@@ -16,7 +16,7 @@
 
 > 活动：活动指的是您在投放时的业务活动，例如**新产品上线拉新活动**。
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道管理/创建活动.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道管理/创建活动.gif)
 
 **创建活动**
 
@@ -30,7 +30,7 @@
 
 > 渠道链接：您需要推广的产品地址，例如官方商城的页面地址，或App的下载地址。
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道管理/创建渠道链接.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道管理/创建渠道链接.gif)
 
 **创建渠道链接**
 
@@ -60,7 +60,7 @@
 
 ### 批量创建新渠道连接
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道管理/批量创建渠道链接.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道管理/批量创建渠道链接.gif)
 
 **批量创建渠道链接**
 
@@ -68,7 +68,7 @@
 
 ## 查看单条渠道链接的相关数据
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道管理/查看单条渠道链接的数据.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道管理/查看单条渠道链接的数据.png)
 
 **查看单条渠道链接的相关数据**
 
@@ -96,7 +96,7 @@
 
 ## 查看活动的相关数据
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道管理/查看活动的数据.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道管理/查看活动的数据.png)
 
 **查看活动的相关数据**
 
@@ -108,7 +108,7 @@
 
 ### 渠道链接的编辑与修改
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道管理/渠道链接的编辑与修改.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道管理/渠道链接的编辑与修改.gif)
 
 **渠道链接的编辑与修改**
 
@@ -124,7 +124,7 @@
 
 ### 活动的编辑与修改
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道管理/活动的编辑与修改.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道管理/活动的编辑与修改.gif)
 
 **活动的编辑与修改**
 
@@ -138,7 +138,7 @@
 
 ## 筛选与搜索
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道管理/筛选与搜索.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道管理/筛选与搜索.gif)
 
 **筛选与搜索**
 

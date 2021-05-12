@@ -2,7 +2,7 @@
 
 ## 事件分析界面概览
 
-![](https://github.com/liushuang1205/docs/tree/127e894995cbb95a265191ed1a34a84385c804b6/配图件分析/事件分析界面.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/127e894995cbb95a265191ed1a34a84385c804b6/配图件分析/事件分析界面.png)
 
 **事件分析界面**
 
@@ -10,7 +10,7 @@
 
 ### 选择事件与指标
 
-![](https://github.com/liushuang1205/docs/tree/127e894995cbb95a265191ed1a34a84385c804b6/配图/事件分析/选择事件与指标.gif?raw=true)
+![](https://raw.githubusercontent.com/liushuang1205/docs/127e894995cbb95a265191ed1a34a84385c804b6/配图/事件分析/选择事件与指标.gif?raw=true)
 
 **选择事件与指标**
 
@@ -30,7 +30,7 @@
 
 ### 为选择的事件添加筛选条件
 
-![](https://github.com/liushuang1205/docs/tree/127e894995cbb95a265191ed1a34a84385c804b6/配图/事件分析/事件指标筛选.gif?raw=true)
+![](https://raw.githubusercontent.com/liushuang1205/docs/127e894995cbb95a265191ed1a34a84385c804b6/配图/事件分析/事件指标筛选.gif?raw=true)
 
 **事件指标筛选**
 
@@ -38,7 +38,7 @@
 
 ### 同时展示多个事件与指标
 
-![](https://github.com/liushuang1205/docs/tree/127e894995cbb95a265191ed1a34a84385c804b6/配图件分析/添加多个事件与指标.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/127e894995cbb95a265191ed1a34a84385c804b6/配图件分析/添加多个事件与指标.gif)
 
 **添加事件指标**
 
@@ -46,7 +46,7 @@
 
 ### 公共筛选条件
 
-![](https://github.com/liushuang1205/docs/tree/127e894995cbb95a265191ed1a34a84385c804b6/配图/事件分析/公共筛选条件.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/127e894995cbb95a265191ed1a34a84385c804b6/配图/事件分析/公共筛选条件.gif)
 
 **公共筛选条件**
 
@@ -56,7 +56,7 @@
 
 ### 分析维度
 
-![](https://github.com/liushuang1205/docs/tree/127e894995cbb95a265191ed1a34a84385c804b6/配图/事件分析/分析维度.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/127e894995cbb95a265191ed1a34a84385c804b6/配图/事件分析/分析维度.gif)
 
 **分析维度**
 
@@ -68,7 +68,7 @@
 
 ### 分析用户群
 
-![](https://github.com/liushuang1205/docs/tree/127e894995cbb95a265191ed1a34a84385c804b6/配图/事件分析/分析用户群.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/127e894995cbb95a265191ed1a34a84385c804b6/配图/事件分析/分析用户群.gif)
 
 **分析用户群**
 
@@ -78,7 +78,7 @@
 
 ### 时间范围选择
 
-![](https://github.com/liushuang1205/docs/tree/127e894995cbb95a265191ed1a34a84385c804b6/配图件分析/时间范围选择.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/127e894995cbb95a265191ed1a34a84385c804b6/配图件分析/时间范围选择.png)
 
 **时间范围选择**
 
@@ -90,7 +90,7 @@
 
 事件分析的分析结果支持六种类型的图表：折线图，面积图，堆叠柱状图，柱状图，饼环图，数值图。
 
-![](https://github.com/liushuang1205/docs/tree/127e894995cbb95a265191ed1a34a84385c804b6/配图/事件分析/图表组合.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/127e894995cbb95a265191ed1a34a84385c804b6/配图/事件分析/图表组合.png)
 
 **图表组合示例**
 
@@ -98,11 +98,11 @@
 
 当以表格展示数据时，根据选择维度数量的不同，表格的展现有所不同，共分为无维度、单维度、多维度三种情形：
 
-![](https://github.com/liushuang1205/docs/tree/127e894995cbb95a265191ed1a34a84385c804b6/配图件分析/表格与维度.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/127e894995cbb95a265191ed1a34a84385c804b6/配图件分析/表格与维度.gif)
 
 ### 保存书签
 
-![](https://github.com/liushuang1205/docs/tree/127e894995cbb95a265191ed1a34a84385c804b6/配图/事件分析/保存与下载.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/127e894995cbb95a265191ed1a34a84385c804b6/配图/事件分析/保存与下载.png)
 
 **保存书签**
 
@@ -114,7 +114,7 @@
 
 ### 数据下载
 
-![](https://github.com/liushuang1205/docs/tree/127e894995cbb95a265191ed1a34a84385c804b6/配图/事件分析/保存与下载.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/127e894995cbb95a265191ed1a34a84385c804b6/配图/事件分析/保存与下载.png)
 
 **保存书签**
 

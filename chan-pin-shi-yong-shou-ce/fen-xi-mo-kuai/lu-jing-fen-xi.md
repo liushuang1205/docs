@@ -4,13 +4,13 @@
 
 ## 路径分析界面概览
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图径分析/路径分析界面.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图径分析/路径分析界面.png)
 
 **路径分析界面**
 
 ## 查询条件配置方法
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/路径分析/查询条件配置.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/路径分析/查询条件配置.gif)
 
 **路径分析查询条件配置**
 
@@ -48,7 +48,7 @@
 
 ### 用户筛选
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/路径分析/用户筛选.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/路径分析/用户筛选.gif)
 
 **用户筛选**
 
@@ -58,7 +58,7 @@
 
 ### 分析用户群
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/路径分析/分析用户群.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/路径分析/分析用户群.gif)
 
 **分析用户群**
 
@@ -66,7 +66,7 @@
 
 ### 时间范围选择
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图径分析/时间范围选择.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图径分析/时间范围选择.png)
 
 **时间范围选择**
 
@@ -74,7 +74,7 @@
 
 ### 保存书签
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/路径分析/保存与下载.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/路径分析/保存与下载.png)
 
 **保存书签**
 
@@ -86,7 +86,7 @@
 
 ### 数据下载
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/路径分析/保存与下载.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/路径分析/保存与下载.png)
 
 **保存书签**
 
@@ -94,7 +94,7 @@
 
 ## 路径桑基图解释
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/路径分析/路径分析桑基图.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/路径分析/路径分析桑基图.gif)
 
 **桑基图节点悬停信息**
 

@@ -4,7 +4,7 @@
 
 ## 渠道分析界面概览
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道分析/渠道分析界面.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道分析/渠道分析界面.png)
 
 **渠道分析界面概览**
 
@@ -14,7 +14,7 @@
 
 ### 基础查询条件
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道分析/查询条件配置.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道分析/查询条件配置.gif)
 
 **查询条件配置**
 
@@ -56,7 +56,7 @@
 
 ### 分析对象筛选
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道分析/分析对象筛选.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道分析/分析对象筛选.gif)
 
 **分析对象筛选**
 
@@ -64,7 +64,7 @@
 
 ## 分析维度
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道分析/分析维度.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道分析/分析维度.gif)
 
 **分析对象筛选**
 
@@ -82,7 +82,7 @@
 
 ## 转化目标
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道分析/转化目标.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道分析/转化目标.gif)
 
 **转化目标**
 
@@ -90,7 +90,7 @@
 
 ## 分析用户群
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道分析/分析用户群.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道分析/分析用户群.gif)
 
 **分析用户群**
 
@@ -98,7 +98,7 @@
 
 ## 时间范围选择
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道分析/时间范围选择.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道分析/时间范围选择.png)
 
 **时间范围选择**
 
@@ -108,7 +108,7 @@
 
 ### 书签保存
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道分析/保存与下载.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图道分析/保存与下载.png)
 
 **保存书签**
 
@@ -120,7 +120,7 @@
 
 ### 数据下载
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/渠道分析/保存与下载.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/渠道分析/保存与下载.png)
 
 **保存书签**
 

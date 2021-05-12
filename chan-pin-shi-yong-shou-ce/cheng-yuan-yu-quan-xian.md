@@ -1,6 +1,6 @@
 # 成员与权限
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/成员与权限/成员与权限管理页面.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/成员与权限/成员与权限管理页面.png)
 
 **成员与权限管理界面**
 
@@ -16,7 +16,7 @@
 
 通过**成员与权限**模块，管理员可以为不同成员进行角色赋予、权限配置等一系列操作，以便企业内部不同角色成员均参与到数据分析与决策的过程中来，同时也方便对所有项目成员进行统一的管理。
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/成员与权限/成员与角色.png)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/成员与权限/成员与角色.png)
 
 **成员与角色**
 
@@ -32,7 +32,7 @@
 
 ### 为项目添加成员
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/成员与权限/添加成员.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/成员与权限/添加成员.gif)
 
 **添加成员**
 
@@ -66,7 +66,7 @@
 
 ### 成员的编辑操作
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/成员与权限/成员操作.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/成员与权限/成员操作.gif)
 
 **成员操作**
 
@@ -116,7 +116,7 @@
 
 ### 新建角色
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/成员与权限/新建角色.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/成员与权限/新建角色.gif)
 
 **新建角色界面**
 
@@ -254,7 +254,7 @@
 
 ### 角色成员管理
 
-![](https://github.com/liushuang1205/docs/tree/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/成员与权限/角色成员管理.gif)
+![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/成员与权限/角色成员管理.gif)
 
 **角色成员管理**
 
