@@ -56,6 +56,5 @@
 
 ## 🐱 Java Sdk
 
-* [ArrayBlockingQueue](java-sdk/queue/README.md)
-  * [测试](java-sdk/queue/ce-shi.md)
+* [ArrayBlockingQueue](java-sdk/queue.md)
 
