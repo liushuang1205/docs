@@ -18,7 +18,7 @@
 
 ![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分群/条件规则创建.gif)
 
- **条件规则创建**
+**条件规则创建**
 
 ### 条件规则创建
 
@@ -48,7 +48,7 @@
 
 ![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分群/ID上传创建.gif)
 
- **ID上传创建**
+**ID上传创建**
 
 ID上传适合用户量较小的群组创建。
 
@@ -122,7 +122,7 @@ ID上传适合用户量较小的群组创建。
 
 ![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分群/用户分群详情.gif)
 
- **用户分群详情页**
+**用户分群详情页**
 
 在用户分群列表中点击用户分群名称，即可进入该用户群组的详情页。
 
@@ -132,7 +132,7 @@ ID上传适合用户量较小的群组创建。
 
 ![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分群/分群详情页-折线图.png)
 
- **折线图**
+**折线图**
 
 折线图表示此用户分群中的**用户数**随着时间变动的趋势。
 
@@ -140,7 +140,7 @@ ID上传适合用户量较小的群组创建。
 
 ![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分群/自定义表格.gif)
 
- **自定义表格**
+**自定义表格**
 
 自定义表格如上图所示，其中，列表头为全部用户属性中的数个用户属性，具体需要由使用者自定义，点击**设置显示列**将弹出列表头设置窗：
 
@@ -154,7 +154,7 @@ ID上传适合用户量较小的群组创建。
 
 ![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分群/选择时间范围.gif)
 
- **选择时间范围**
+**选择时间范围**
 
 点击用户分群详情页上方的**时间范围选择器**，可以选择查询的数据时间范围。关于时间范围选择的详细信息请参考[时间范围](ji-chu-gai-nian-jie-shi/shi-jian-fan-wei.md)。
 
@@ -162,7 +162,7 @@ ID上传适合用户量较小的群组创建。
 
 ![](https://raw.githubusercontent.com/liushuang1205/docs/dfedffd19e7a2c476283d11b3f29313256234ed4/配图/用户分群/用户行为详情页.gif)
 
- **用户的行为详情页**
+**用户的行为详情页**
 
 在用户分群详情页的用户列表中，点击某个用户ID，即可进入此用户的行为详情页，页面中共展示四个图表：
 
