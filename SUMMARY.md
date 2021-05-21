@@ -54,6 +54,9 @@
     * [预置事件与预置属性](ji-shu-zhi-nan/sdk-shi-yong/yu-zhi-shi-jian-yu-yu-zhi-shu-xing/README.md)
       * [App SDK预置](ji-shu-zhi-nan/sdk-shi-yong/yu-zhi-shi-jian-yu-yu-zhi-shu-xing/app-sdk-yu-zhi.md)
 
+## 🐵 技术架构
+* [卓尔数据分析技术架构文档](卓尔数据分析技术架构说明文档.md)
+
 ## 🐱 Java Sdk
 
 * [ArrayBlockingQueue](java-sdk/queue.md)
