@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <g id="智慧运营v1.3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="用户旅程-详情-编辑备份" transform="translate(-816.000000, -862.000000)">
+            <g id="icon/16/插入小程序" transform="translate(816.000000, 862.000000)">
+                <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                <path d="M8,1 C4.13400675,1 1,4.13400675 1,8 C1,11.8659932 4.13400675,15 8,15 C11.8659932,15 15,11.8659932 15,8 C15,4.13400675 11.8659932,1 8,1 Z" id="路径" fill="#00A39B" fill-rule="nonzero"></path>
+                <polyline id="路径-24" stroke="#FFFFFF" points="5.29033224 7.84838104 7.45884504 10.0168938 11.1273578 6.34838104"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
