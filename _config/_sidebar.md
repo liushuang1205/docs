@@ -6,8 +6,8 @@
 
   - [JAVA](java/README.md)
 
-- WEB
+- 前端
 
-  - [VUE](web/README.md)
+  - [WEB](web/README.md)
 
 - [问题总结](question.md)
