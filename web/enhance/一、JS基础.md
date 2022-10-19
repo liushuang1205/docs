@@ -139,11 +139,11 @@ JavaScript 引擎需要用栈来维护程序执行期间上下文的状态，如
 > 这里有一个坑，如果我创建一个对象，更改它的原型，`constructor`就会变得不可靠了
 
     function Fn(){};
-    
+
     Fn.prototype=new Array();
-    
+
     var f=new Fn();
-    
+
     console.log(f.constructor===Fn);    // false
     console.log(f.constructor===Array); // true
 
@@ -164,7 +164,7 @@ JavaScript 引擎需要用栈来维护程序执行期间上下文的状态，如
     Object.prototype.toString.call([])       //"[object Array]"
     Object.prototype.toString.call(document)  //"[object HTMLDocument]"
     Object.prototype.toString.call(window)   //"[object Window]"
-    
+
     // 从上面这段代码可以看出，Object.prototype.toString.call() 可以很好地判断引用类型，甚至可以把 document 和 window 都区分开来。
 
 > 实现一个全局通用的数据类型判断方法，来加深你的理解，代码如下
@@ -454,13 +454,13 @@ JavaScript 引擎需要用栈来维护程序执行期间上下文的状态，如
     }
     var a = 1
     foo()
-    
+
     const obj = {
       a: 2,
       foo: foo
     }
     obj.foo()
-    
+
     const c = new foo()
 
 - 对于直接调用 `foo` 来说，不管 `foo` 函数被放在了什么地方，`this` 一定是`window`
@@ -507,8 +507,6 @@ JavaScript 引擎需要用栈来维护程序执行期间上下文的状态，如
 > 以上就是 `this` 的规则了，但是可能会发生多个规则同时出现的情况，这时候不同的规则之间会根据优先级最高的来决定 `this` 最终指向哪里。
 
 > 首先，`new` 的方式优先级最高，接下来是 `bind` 这些函数，然后是 `obj.foo()` 这种调用方式，最后是 `foo` 这种调用方式，同时，箭头函数的 `this` 一旦被绑定，就不会再被任何方式所改变。
-
-![image.png][image 1]
 
 ![Image 1](_media/2.png)
 
@@ -598,7 +596,7 @@ JavaScript 引擎需要用栈来维护程序执行期间上下文的状态，如
     let arr = [13, 6, 10, 11, 16];
     const max = Math.max.apply(Math, arr);
     const min = Math.min.apply(Math, arr);
-    
+
     console.log(max);  // 16
     console.log(min);  // 6
 
@@ -645,17 +643,17 @@ JavaScript 引擎需要用栈来维护程序执行期间上下文的状态，如
 
     Function.prototype.myApply = function(context = window, ...args) {
       // this-->func context--> obj args--> 传递过来的参数
-    
+
       // 在context上加一个唯一值不影响context上的属性
       let key = Symbol('key')
       context[key] = this; // context为调用的上下文,this此处为函数，将这个函数作为context的方法
       // let args = [...arguments].slice(1) //第一个参数为obj所以删除,伪数组转为数组
-    
+
       let result = context[key](...args);
       delete context[key]; // 不删除会导致context属性越来越多
       return result;
     }
-    
+
     // 使用
     function f(a,b){
      console.log(a,b)
@@ -672,9 +670,9 @@ JavaScript 引擎需要用栈来维护程序执行期间上下文的状态，如
 
     b() // call b
     console.log(a) // undefined
-    
+
     var a = 'Hello world'
-    
+
     function b() {
         console.log('call b')
     }
@@ -758,9 +756,9 @@ JavaScript 引擎需要用栈来维护程序执行期间上下文的状态，如
 
     b() // call b
     console.log(a) // undefined
-    
+
     var a = 'Hello world'
-    
+
     function b() {
     	console.log('call b')
     }
@@ -792,13 +790,13 @@ JavaScript 引擎需要用栈来维护程序执行期间上下文的状态，如
 > 因为当 `JS` 解释器在遇到非匿名的立即执行函数时，会创建一个辅助的特定对象，然后将函数名称作为这个对象的属性，因此函数内部才可以访问到 `foo`，但是这个值又是只读的，所以对它的赋值并不生效，所以打印的结果还是这个函数，并且外部的值也没有发生更改。
 
     specialObject = {};
-    
+
     Scope = specialObject + Scope;
-    
+
     foo = new FunctionExpression;
     foo.[[Scope]] = Scope;
     specialObject.foo = foo; // {DontDelete}, {ReadOnly}
-    
+
     delete Scope[0]; // remove specialObject from the front of scope chain
 
 **总结**
@@ -918,7 +916,7 @@ JavaScript 引擎需要用栈来维护程序执行期间上下文的状态，如
     fun1();
     var result = fun1();
     result();  // 1
-    
+
     // 结合闭包的概念，我们把这段代码放到控制台执行一下，就可以发现最后输出的结果是 1（即 a 变量的值）。那么可以很清楚地发现，a 变量作为一个 fun1 函数的内部变量，正常情况下作为函数内的局部变量，是无法被外部访问到的。但是通过闭包，我们最后还是可以拿到 a 变量的值
 
 **闭包有两个常用的用途**
@@ -933,7 +931,7 @@ JavaScript 引擎需要用栈来维护程序执行期间上下文的状态，如
     function fn() {
       console.log(a);
     }
-    
+
     function fn1() {
       let a = 1
       // 这里也是闭包
@@ -1204,12 +1202,12 @@ JavaScript 引擎需要用栈来维护程序执行期间上下文的状态，如
       // var obj = new Object()
     	// 2、给该对象的__proto__赋值为fn.prototype，即设置原型链
       // obj.__proto__ = fn.prototype
-    
+
       // 1、2步骤合并
       // 创建一个空对象，且这个空对象继承构造函数的 prototype 属性
       // 即实现 obj.__proto__ === constructor.prototype
       var obj = Object.create(fn.prototype);
-    
+
     	// 3、执行fn，并将obj作为内部this。使用 apply，改变构造函数 this 的指向到新建的对象，这样 obj 就可以访问到构造函数中的属性
       var res = fn.apply(obj, args);
     	// 4、如果fn有返回值，则将其作为new操作返回内容，否则返回obj
@@ -1238,7 +1236,7 @@ JavaScript 引擎需要用栈来维护程序执行期间上下文的状态，如
     function Person() {...}
     // 使用内置函数new
     var person = new Person(1,2)
-    
+
     // 使用手写的new，即create
     var person = create(Person, 1,2)
 
@@ -1334,9 +1332,9 @@ JavaScript 引擎需要用栈来维护程序执行期间上下文的状态，如
       Parent.call(this, value)
     }
     Child.prototype = new Parent()
-    
+
     const child = new Child(1)
-    
+
     child.getValue() // 1
     child instanceof Parent // true
 
@@ -1353,7 +1351,7 @@ JavaScript 引擎需要用栈来维护程序执行期间上下文的状态，如
     Parent.prototype.getValue = function() {
       console.log(this.val)
     }
-    
+
     function Child(value) {
       Parent.call(this, value)
     }
@@ -1365,9 +1363,9 @@ JavaScript 引擎需要用栈来维护程序执行期间上下文的状态，如
         configurable: true
       }
     })
-    
+
     const child = new Child(1)
-    
+
     child.getValue() // 1
     child instanceof Parent // true
 
@@ -1444,7 +1442,7 @@ JavaScript 引擎需要用栈来维护程序执行期间上下文的状态，如
         this.type = 'child2';
       }
       Child2.prototype = new Parent2();
-    
+
       console.log(new Child2());
 
 看似没有问题，父类的方法和属性都能够访问，但实际上有一个潜在的不足。举个例子：
@@ -1531,7 +1529,7 @@ JavaScript 引擎需要用栈来维护程序执行期间上下文的状态，如
         // ...
         return call && (typeof call === 'object' || typeof call === 'function') ? call : self;
     }
-    
+
     function _inherits(subClass, superClass) {
         // ...
         //看到没有
@@ -1551,16 +1549,16 @@ JavaScript 引擎需要用栈来维护程序执行期间上下文的状态，如
         // 验证是否是 Parent 构造出来的 this
         _classCallCheck(this, Parent);
     };
-    
+
     var Child = (function (_Parent) {
         _inherits(Child, _Parent);
-    
+
         function Child() {
             _classCallCheck(this, Child);
-    
+
             return _possibleConstructorReturn(this, (Child.__proto__ || Object.getPrototypeOf(Child)).apply(this, arguments));
         }
-    
+
         return Child;
     }(Parent));
 
@@ -1602,11 +1600,11 @@ JavaScript 引擎需要用栈来维护程序执行期间上下文的状态，如
         }
         sclools: ['x','z'],
     };
-    
+
     var programer = {
         language: 'js',
     };
-    
+
     function extend(p, c){
         var c = c || {};
         for( var prop in p){
@@ -1691,7 +1689,7 @@ JavaScript 引擎需要用栈来维护程序执行期间上下文的状态，如
         console.log('eating...');
     }
     function Programmer(name, age, title){}
-    
+
     Programmer.prototype = Object.create(Person.prototype); //建立继承关系
     Programmer.prototype.constructor = Programmer;  // 修改constructor的指向
 
@@ -1705,7 +1703,7 @@ JavaScript 引擎需要用栈来维护程序执行期间上下文的状态，如
     Person.prototype.eat = function(){
         console.log('eating...');
     }
-    
+
     function Programmer(name, age, title){
         Person.apply(this, arguments); // 调用父类的构造器
     }
@@ -1713,7 +1711,7 @@ JavaScript 引擎需要用栈来维护程序执行期间上下文的状态，如
 
     Programmer.prototype = Object.create(Person.prototype);
     Programmer.prototype.constructor = Programmer;
-    
+
     Programmer.prototype.language = "js";
     Programmer.prototype.work = function(){
         console.log('i am working code in '+ this.language);
@@ -1814,9 +1812,9 @@ JavaScript 引擎需要用栈来维护程序执行期间上下文的状态，如
     var moduleA;
     moduleA = function() {
         var prop = 1;
-    
+
         function func() {}
-    
+
         return {
             func: func,
             prop: prop
@@ -1830,25 +1828,25 @@ JavaScript 引擎需要用栈来维护程序执行期间上下文的状态，如
     function Cat(){
     	this.eat = '肉';
     }
-    
+
     function Tiger(){
     	this.color = '黑黄相间';
     }
-    
+
     function Cheetah(){
     	this.color = '报文';
     }
-    
+
     function Lion(){
     	this.color = '土黄色';
     }
-    
+
     Tiger.prototype =  Cheetah.prototype = Lion.prototype = new Cat();//共享一个祖先 Cat
-    
+
     var T = new Tiger();
     var C = new Cheetah();
     var L = new Lion();
-    
+
     console.log(T.color);
     console.log(C.color);
     console.log(L.color);
@@ -1865,7 +1863,7 @@ JavaScript 引擎需要用栈来维护程序执行期间上下文的状态，如
     function DetectorBase() {
         throw new Error('Abstract class can not be invoked directly!');
     }
-    
+
     DetectorBase.prototype.detect = function() {
         console.log('Detection starting...');
     };
@@ -1875,14 +1873,14 @@ JavaScript 引擎需要用栈来维护程序执行期间上下文的状态，如
     DetectorBase.prototype.init = function() {
         throw new Error('Error');
     };
-    
+
     // var d = new DetectorBase();
     // Uncaught Error: Abstract class can not be invoked directly!
-    
+
     function LinkDetector() {}
     LinkDetector.prototype = Object.create(DetectorBase.prototype);
     LinkDetector.prototype.constructor = LinkDetector;
-    
+
     var l = new LinkDetector();
     console.log(l); //LinkDetector {}__proto__: LinkDetector
     l.detect(); //Detection starting...
@@ -1921,7 +1919,7 @@ JavaScript 引擎需要用栈来维护程序执行期间上下文的状态，如
     <div id="div1">
       <div id="div2"></div>
     </div>
-    
+
     <script> let div1 = document.getElementById('div1'); let div2 = document.getElementById('div2'); div1.onClick = function(){ alert('1') } div2.onClick = function(){ alert('2'); } </script>
 
 > 当点击 `div2`时，会弹出两个弹出框。在 `ie8/9/10`、`chrome`浏览器，会先弹出”2”再弹出“1”，这就是事件冒泡：事件从最底层的节点向上冒泡传播。事件捕获则跟事件冒泡相反
@@ -2001,7 +1999,7 @@ JavaScript 引擎需要用栈来维护程序执行期间上下文的状态，如
     export function b() {}
     // file b.js
     export default function() {}
-    
+
     import {a, b} from './a.js'
     import XXX from './b.js'
 
@@ -2015,7 +2013,7 @@ JavaScript 引擎需要用栈来维护程序执行期间上下文的状态，如
     }
     // or
     exports.a = 1
-    
+
     // b.js
     var module = require('./a.js')
     module.a // -> log 1
@@ -2424,7 +2422,7 @@ Iterator 语法：
           next: 0,
           stop: function() {}
         };
-    
+
         return {
           next: function() {
             var ret = cb(object);
@@ -2474,7 +2472,7 @@ Iterator 语法：
 > - `await => yield`
 
     // 基本用法
-    
+
     async function timeout (ms) {
       await new Promise((resolve) => {
         setTimeout(resolve, ms)
@@ -2520,11 +2518,11 @@ Iterator 语法：
             }, 1000)
         })
     }
-    
+
     //自动执行器，如果一个Generator函数没有执行完，则递归调用
     function asyncFun(func){
       var gen = func();
-    
+
       function next(data){
         var result = gen.next(data);
         if (result.done) return result.value;
@@ -2532,10 +2530,10 @@ Iterator 语法：
           next(data);
         });
       }
-    
+
       next();
     }
-    
+
     // 所需要执行的Generator函数，内部的数据在执行完成一步的promise之后，再调用下一步
     var func = function* (){
       var f1 = yield getNum(1);
@@ -2578,7 +2576,7 @@ Iterator 语法：
 ![Image 1](_media/20210516163647.png)
 
     console.log(1)
-    
+
     async function asyncFunc(){
       console.log(2)
       // await xx ==> promise.resolve(()=>{console.log(3)}).then()
@@ -2590,20 +2588,20 @@ Iterator 语法：
       // 微任务谁先注册谁先执行
       console.log(4)
     }
-    
+
     setTimeout(()=>{console.log(5)})
-    
+
     const promise = new Promise((resolve,reject)=>{
       console.log(6)
       resolve(7)
     })
-    
+
     promise.then(d=>{console.log(d)})
-    
+
     asyncFunc()
-    
+
     console.log(8)
-    
+
     // 输出 1 6 2 3 8 7 4 5
 
 **1. 浏览器事件循环**
@@ -2662,21 +2660,21 @@ Iterator 语法：
 ![Image 1](_media/4.png)
 
     console.log('script start');
-    
+
     setTimeout(function() {
       console.log('setTimeout');
     }, 0);
-    
+
     console.log('script end');
 
 > 不同的任务源会被分配到不同的 `Task` 队列中，任务源可以分为 微任务（`microtask`） 和 宏任务（`macrotask`）。在 `ES6` 规范中，`microtask` 称为 `jobs`，`macrotask` 称为 `task`
 
     console.log('script start');
-    
+
     setTimeout(function() {
       console.log('setTimeout');
     }, 0);
-    
+
     new Promise((resolve) => {
         console.log('Promise')
         resolve()
@@ -2685,7 +2683,7 @@ Iterator 语法：
     }).then(function() {
       console.log('promise2');
     });
-    
+
     console.log('script end');
     // script start => Promise => script end => promise1 => promise2 => setTimeout
 
@@ -2902,20 +2900,20 @@ Iterator 语法：
 
     setTimeout(()=>{
         console.log('timer1')
-    
+
         Promise.resolve().then(function() {
             console.log('promise1')
         })
     }, 0)
-    
+
     setTimeout(()=>{
         console.log('timer2')
-    
+
         Promise.resolve().then(function() {
             console.log('promise2')
         })
     }, 0)
-    
+
     // 以上代码在浏览器和 node 中打印情况是不同的
     // 浏览器中一定打印 timer1, promise1, timer2, promise2
     // node 中可能打印 timer1, timer2, promise1, promise2
@@ -2927,19 +2925,19 @@ Iterator 语法：
 
     setTimeout(() => {
      console.log("timer1");
-    
+
      Promise.resolve().then(function() {
        console.log("promise1");
      });
     }, 0);
-    
+
     // poll阶段执行
     fs.readFile('./test',()=>{
       // 在poll阶段里面 如果有setImmediate优先执行，setTimeout处于事件循环顶端 poll下面就是setImmediate
       setTimeout(()=>console.log('setTimeout'),0)
       setImmediate(()=>console.log('setImmediate'),0)
     })
-    
+
     process.nextTick(() => {
      console.log("nextTick");
     });
@@ -3107,7 +3105,7 @@ object.assign 的示例代码如下：
 > `slice` 方法也比较有局限性，因为`它仅仅针对数组类型`。`slice方法会返回一个新的数组对象`，这一对象由该方法的前两个参数来决定原数组截取的开始和结束时间，是不会影响和改变原始数组的。
 
     slice 的语法为：arr.slice(begin, end);
-    
+
     let arr = [1, 2, {val: 4}];
     let newArr = arr.slice();
     newArr[2].val = 1000;
@@ -3245,34 +3243,34 @@ object.assign 的示例代码如下：
 **实现深拷贝**
 
     const isComplexDataType = obj => (typeof obj === 'object' || typeof obj === 'function') && (obj !== null)
-    
+
     const deepClone = function (obj, hash = new WeakMap()) {
       if (obj.constructor === Date) {
         return new Date(obj)       // 日期对象直接返回一个新的日期对象
       }
-    
+
       if (obj.constructor === RegExp){
         return new RegExp(obj)     //正则对象直接返回一个新的正则对象
       }
-    
+
       //如果循环引用了就用 weakMap 来解决
       if (hash.has(obj)) {
         return hash.get(obj)
       }
       let allDesc = Object.getOwnPropertyDescriptors(obj)
-    
+
       //遍历传入参数所有键的特性
       let cloneObj = Object.create(Object.getPrototypeOf(obj), allDesc)
-    
+
       // 把cloneObj原型复制到obj上
       hash.set(obj, cloneObj)
-    
+
       for (let key of Reflect.ownKeys(obj)) {
         cloneObj[key] = (isComplexDataType(obj[key]) && typeof obj[key] !== 'function') ? deepClone(obj[key], hash) : obj[key]
       }
       return cloneObj
     }
-    
+
     // 下面是验证代码
     let obj = {
       num: 0,
@@ -3319,7 +3317,7 @@ object.assign 的示例代码如下：
         clearTimeout(timer);
         timer = null;
       }
-    
+
       // 设置定时器，使事件间隔指定事件后执行
       timer = setTimeout(() => {
         fn.apply(context, args);
@@ -3368,10 +3366,10 @@ object.assign 的示例代码如下：
        }
      }
      var targetWithLog = new Proxy(target, logHandler);
-    
+
      targetWithLog.name; // 控制台输出：name 被读取
      targetWithLog.name = 'others'; // 控制台输出：name 被设置为 others
-    
+
      console.log(target.name); // 控制台输出: others
 
 - `targetWithLog` 读取属性的值时，实际上执行的是 `logHandler.get` ：在控制台输出信息，并且读取被代理对象 `target` 的属性。
@@ -3395,7 +3393,7 @@ object.assign 的示例代码如下：
         return 35;
       }
     });
-    
+
     let obj = Object.create(proxy);
     obj.time // 35
 
@@ -3415,7 +3413,7 @@ object.assign 的示例代码如下：
 
     // 在读取代理对象的原型时触发该操作，比如在执行 Object.getPrototypeOf(proxy) 时。
     handler.getPrototypeOf()
-    
+
     // 在设置代理对象的原型时触发该操作，比如在执行 Object.setPrototypeOf(proxy, null) 时。
     handler.setPrototypeOf()
 
@@ -3426,7 +3424,7 @@ object.assign 的示例代码如下：
 
     // 在让一个代理对象不可扩展时触发该操作，比如在执行 Object.preventExtensions(proxy) 时。
     handler.preventExtensions()
-    
+
     // 在获取代理对象某个属性的属性描述时触发该操作，比如在执行 Object.getOwnPropertyDescriptor(proxy, "foo") 时。
     handler.getOwnPropertyDescriptor()
 
@@ -3437,20 +3435,20 @@ object.assign 的示例代码如下：
 
     // 在判断代理对象是否拥有某个属性时触发该操作，比如在执行 "foo" in proxy 时。
     handler.has()
-    
+
     // 在读取代理对象的某个属性时触发该操作，比如在执行 proxy.foo 时。
     handler.get()
 
 
     // 在给代理对象的某个属性赋值时触发该操作，比如在执行 proxy.foo = 1 时。
     handler.set()
-    
+
     // 在删除代理对象的某个属性时触发该操作，比如在执行 delete proxy.foo 时。
     handler.deleteProperty()
-    
+
     // 在获取代理对象的所有属性键时触发该操作，比如在执行 Object.getOwnPropertyNames(proxy) 时。
     handler.ownKeys()
-    
+
     // 在调用一个目标对象为函数的代理对象时触发该操作，比如在执行 proxy() 时。
     handler.apply()
 
@@ -3467,11 +3465,11 @@ object.assign 的示例代码如下：
 
     // commonJS require
     const proxyPolyfill = require('proxy-polyfill/src/proxy')();
-    
+
     // Your environment may also support transparent rewriting of commonJS to ES6:
     import ProxyPolyfillBuilder from 'proxy-polyfill/src/proxy';
     const proxyPolyfill = ProxyPolyfillBuilder();
-    
+
     // Then use...
     const myProxy = new proxyPolyfill(...);
 
@@ -3504,29 +3502,29 @@ object.assign 的示例代码如下：
       data:data,//针对post请求
       dataType:'jsonp',
       success:function (msg) {
-    
+
       },
       error:function (error) {
-    
+
       }
     })
 
 **promise 封装实现：**
 
     // promise 封装实现：
-    
+
     function getJSON(url) {
       // 创建一个 promise 对象
       let promise = new Promise(function(resolve, reject) {
         let xhr = new XMLHttpRequest();
-    
+
         // 新建一个 http 请求
         xhr.open("GET", url, true);
-    
+
         // 设置状态的监听函数
         xhr.onreadystatechange = function() {
           if (this.readyState !== 4) return;
-    
+
           // 当请求成功或失败时，改变 promise 的状态
           if (this.status === 200) {
             resolve(this.response);
@@ -3534,22 +3532,22 @@ object.assign 的示例代码如下：
             reject(new Error(this.statusText));
           }
         };
-    
+
         // 设置错误监听函数
         xhr.onerror = function() {
           reject(new Error(this.statusText));
         };
-    
+
         // 设置响应的数据类型
         xhr.responseType = "json";
-    
+
         // 设置请求头信息
         xhr.setRequestHeader("Accept", "application/json");
-    
+
         // 发送 http 请求
         xhr.send(null);
       });
-    
+
       return promise;
     }
 
@@ -3583,7 +3581,7 @@ object.assign 的示例代码如下：
       console.log(value, index, this, arguments.length);
       return value.repeat(3);   //必须指定返回值，否则返回 undefined
     }, obj);
-    
+
     // return 的 value 重复了三遍，最后返回的数组为 ["aaa","bbb","ccc"]
 
 
@@ -3844,9 +3842,9 @@ object.assign 的示例代码如下：
     const three = function three() {
       return arguments;
     }
-    
+
     const four = () => arguments;
-    
+
     four(); // Throws an error - arguments is not defined
 
 > 当我们调用函数 four 时，它会抛出一个 ReferenceError: arguments is not defined error。使用 rest 语法，可以解决这个问题。
@@ -4002,7 +4000,7 @@ object.assign 的示例代码如下：
     var a = [1, [2, [3, 4, 5]]];
     function flatten(arr) {
       let result = [];
-    
+
       for(let i = 0; i < arr.length; i++) {
         if(Array.isArray(arr[i])) {
           result = result.concat(flatten(arr[i]));
@@ -4245,12 +4243,12 @@ object.assign 的示例代码如下：
       for (var i = Math.floor(len / 2) - 1; i >= 0; i--) {
         max_heapify(i, len)
       }
-    
+
       for (var j = len - 1; j > k; j--) {
         swap(0, j)
         max_heapify(0, j)
       }
-    
+
       return arr
     }
     heap_sort(a); // [1, 1, 3, 3, 6, 6, 23, 34, 76, 221, 222, 456]
