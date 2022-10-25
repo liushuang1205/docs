@@ -1,5 +1,3 @@
-
-
 ### 1 Vue 响应式原理
 
 > Vue 的响应式原理是核心是通过 ES5 的保护对象的 `Object.defindeProperty` 中的访问器属性中的 get 和 set 方法，data 中声明的属性都被添加了访问器属性，当读取 data 中的数据时自动调用 get 方法，当修改 data 中的数据时，自动调用 set 方法，检测到数据的变化，会通知观察者 Wacher，观察者 Wacher 自动触发重新 render 当前组件（子组件不会重新渲染）,生成新的虚拟 DOM 树，Vue 框架会遍历并对比新虚拟 DOM 树和旧虚拟 DOM 树中每个节点的差别，并记录下来，最后，加载操作，将所有记录的不同点，局部修改到真实 DOM 树上。
@@ -98,7 +96,7 @@
         document.querySelector('#app').textContent = target[key]
       }
     })
-    
+
     // 测试
     vm.msg = 'Hello World'
     console.log(vm.msg)
@@ -114,7 +112,7 @@
     // `target` 代表需要添加代理的对象
     // `handler` 用来自定义对象中的操作
     // 可以很方便的使用 Proxy 来实现一个数据绑定和监听
-    
+
     let onWatch = (obj, setBind, getLogger) => {
       let handler = {
         get(target, property, receiver) {
@@ -128,7 +126,7 @@
       };
       return new Proxy(obj, handler);
     };
-    
+
     let obj = { a: 1 }
     let value
     let p = onWatch(obj, (v) => {
@@ -203,7 +201,7 @@
     // eventBus.js
     // 事件中心
     let eventHub = new Vue()
-    
+
     // ComponentA.vue
     // 发布者
     addTodo: function () {
@@ -237,19 +235,19 @@
         }
       }
     }
-    
+
     // 测试
     var bus = new EventEmitter()
-    
+
     // 注册事件
     bus.$on('click', function () {
       console.log('click')
     })
-    
+
     bus.$on('click', function () {
       console.log('click1')
     })
-    
+
     // 触发事件
     bus.$emit('click')
 
@@ -320,8 +318,6 @@
 - 维护视图和状态的关系
 - 复杂视图情况下提升渲染性能
 - 除了渲染 `DOM` 以外，还可以实现 `SSR(Nuxt.js/Next.js)`、原生应用(`Weex/React Native`)、小程序(`mpvue/uni-app`)等
-
-![img][image 1]
 
 ![Image 1](_media/20210328112610.png)
 
@@ -474,7 +470,7 @@
 > 上面是 vue 的声明周期的简单梳理，接下来我们直接以代码的形式来完成 vue 的初始化
 
     new Vue({})
-    
+
     // 初始化Vue实例
     function _init() {
     	 // 挂载属性
@@ -493,13 +489,13 @@
         initProvide(vm)
         // 触发钩子
         callHook(vm, 'created')
-    
+
     	 // 挂载节点
         if (vm.$options.el) {
             vm.$mount(vm.$options.el)
         }
     }
-    
+
     // 挂载节点实现
     function mountComponent(vm) {
     	 // 获取 render function
@@ -519,25 +515,25 @@
         // 触发钩子
         callHook(vm, 'mounted')
     }
-    
+
     // 更新节点实现
     funtion queueWatcher(watcher) {
     	nextTick(flushScheduleQueue)
     }
-    
+
     // 清空队列
     function flushScheduleQueue() {
     	 // 遍历队列中所有修改
         for(){
     	    // beforeUpdate
             watcher.before()
-    
+
             // 依赖局部更新节点
             watcher.update()
             callHook('updated')
         }
     }
-    
+
     // 销毁实例实现
     Vue.prototype.$destory = function() {
     	 // 触发钩子
@@ -592,11 +588,11 @@
       this.$options.routes.forEach(route => {
         this.routeMap[route.path] = route
       })
-    
+
       // 数据响应式
       // 定义一个响应式的current，则如果他变了，那么使用它的组件会rerender
       Vue.util.defineReactive(this, 'current', '')
-    
+
       // 请确保onHashChange中this指向当前实例
       window.addEventListener('hashchange', this.onHashChange.bind(this))
       window.addEventListener('load', this.onHashChange.bind(this))
@@ -754,7 +750,7 @@ state 保存应用状态
 
       this._mutations = options.mutations
       this._actions = options.actions
-    
+
       // 绑定this指向
       this.commit = this.commit.bind(this)
       this.dispatch = this.dispatch.bind(this)
@@ -791,7 +787,7 @@ state 保存应用状态
         console.error('未知action类型');
         return
       }
-    
+
       // 上下文可以传递当前store实例进去即可
       entry(this, payload)
 
@@ -896,14 +892,14 @@ state 保存应用状态
       <main v-bind="$attrs">...</main>
       <footer>...</footer>
     </template>
-    
+
     <script> export default {}; </script>
 
 或者这样
 
     // app.js
     import { defineComponent, h, Fragment } from 'vue';
-    
+
     export default defineComponent({
         render() {
             return h(Fragment, {}, [
@@ -927,9 +923,9 @@ state 保存应用状态
             Teleport
         </Teleport>
     </template>
-    
+
     <script> import { defineComponent } from "vue"; export default defineComponent({ setup() {} }); </script>
-    
+
     /* index.html */
     <div id="app"></div>
     <div id="container"></div>
@@ -953,14 +949,14 @@ state 保存应用状态
             </template>
         </Suspense>
     </template>
-    
+
     <script lang="ts"> import { defineComponent } from "vue"; import AsyncComponent from './AsyncComponent.vue'; export default defineComponent({ name: "App", components: { AsyncComponent } }); </script>
-    
+
     // AsyncComponent.vue
     <template>
         <div>Async Component</div>
     </template>
-    
+
     <script lang="ts"> import { defineComponent } from "vue"; const sleep = () => { return new Promise(resolve => setTimeout(resolve, 1000)); }; export default defineComponent({ async setup() { await sleep(); } }); </script>
 
 **8. Better TypeScript support**

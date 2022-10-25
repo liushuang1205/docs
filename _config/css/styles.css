@@ -216,6 +216,11 @@ section.cover.show ~ .sidebar-toggle {
   align-items: center;
 }
 
+.sidebar-nav ul li p a {
+  display: flex;
+  align-items: center;
+}
+
 /****** Sidebar Toggle ******/
 .sidebar-toggle {
   cursor: pointer;

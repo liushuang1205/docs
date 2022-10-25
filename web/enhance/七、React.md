@@ -636,13 +636,9 @@ class Test extends Component {
 - 我们都知道，`React`通过`this.state`来访问`state`，通过`this.setState()`方法来更新`state`。当`this.setState()`方法被调用的时候，`React`会重新调用`render`方法来重新渲染`UI`
 - 首先如果直接在`setState`后面获取`state`的值是获取不到的。在`React`内部机制能检测到的地方， `setState`就是异步的；`在React`检测不到的地方，例如`setInterval`,`setTimeout`，`setState`就是同步更新的
 
-![img][img 8]
-
 ![Image 1](_media/431.png)
 
 > 因为`setState`是可以接受两个参数的，一个`state`，一个回调函数。因此我们可以在回调函数里面获取值
-
-![img][img 9]
 
 ![Image 1](_media/432.png)
 
