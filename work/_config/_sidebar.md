@@ -3,3 +3,4 @@
 - WORK
 
   - [GrowKnows OnePage](work/GrowKnows-OnePage.md)
+  - [微信小游戏SDK上报策略](work/微信小游戏SDK上报策略.md)

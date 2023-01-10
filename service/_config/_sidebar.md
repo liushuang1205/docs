@@ -6,3 +6,6 @@
 
 - mysql
   - [Linux 安装 Mysql8.0](service/Linux下安装mysql8.0.md)
+
+- java
+  - [Linux 安装 Java环境](service/linux下安装java环境.md)
