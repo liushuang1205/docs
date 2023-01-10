@@ -9,3 +9,6 @@
 
 - java
   - [Linux 安装 Java环境](service/linux下安装java环境.md)
+
+- Nexus
+  - [Windows环境下 Nexus搭建npm私服.md](/service/Windows环境下Nexus搭建npm私服.md)
