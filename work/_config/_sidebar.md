@@ -2,7 +2,8 @@
 
 - WORK
 
-  - [GrowKnows OnePage](work/GrowKnows-OnePage.md)
+  - [GrowKnows OnePage Q2](work/GrowKnows-OnePage.md)
+  - [GrowKnows OnePage Q3](work/GrouKnows-OnePage-Q3.md)
   - [微信小游戏SDK上报策略](work/微信小游戏SDK上报策略.md)
 
 - ZD
