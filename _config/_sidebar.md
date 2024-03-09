@@ -12,7 +12,7 @@
   - [基础篇](web/base/一、HTML、HTTP、web综合问题.md)
   - [进阶篇](web/enhance/一、JS基础.md)
   - [精选篇](web/choiceness/一、HTML.md)
-  - [高频篇](web/choiceness/高频模块.md)
+  - [高频篇](web/high/一、CSS.md)
   - [综合篇](web/synthesize/手写模块.md)
   - [TypeScript](web/type-script/Introduction.md)
   - [UniApp](web/uniapp/开篇_为什么你必须学Uniapp开发.md)

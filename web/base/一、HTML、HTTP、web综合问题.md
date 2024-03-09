@@ -1,3 +1,7 @@
+> 前端基础题型，快速过一遍即可
+
+![面试经验谈](_media/ee7310c4f45b9bd6.png)
+
 ### 1 前端需要注意哪些 SEO
 
 - 合理的`title`、`description`、`keywords`：搜索对着三项的权重逐个减小，`title`值强调重点即可，重要关键词出现不要超过 2 次，而且要靠前，不同页面`title`要有所不同；`description`把页面内容高度概括，长度合适，不可过分堆砌关键词，不同页面`description`有所不同；`keywords`列举出重要关键词即可
@@ -318,15 +322,7 @@
   - 在`cache.manifest`文件的编写离线存储的资源
   - 在离线状态时，操作`window.applicationCache`进行需求实现
 
-  CACHE MANIFEST
-  #v0.11
-  CACHE:
-  js/app.js
-  css/style.css
-  NETWORK:
-  resourse/logo.png
-  FALLBACK:
-  /offline.html
+  CACHE MANIFEST #v0.11 CACHE: js/app.js css/style.css NETWORK: resourse/logo.png FALLBACK: /offline.html
 
 ### 11 浏览器是怎么对`HTML5`的离线储存资源进行管理和加载的呢
 
@@ -595,18 +591,7 @@
 
 4. 根据实际请求需要可能包含一个**消息实体** 一个请求报文例子如下：
 
-   GET /Protocols/rfc2616/rfc2616-sec5.html HTTP/1.1
-   Host: www.w3.org
-   Connection: keep-alive
-   Cache-Control: max-age=0
-   Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,_/_;q=0.8
-   User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
-   Referer: https://www.google.com.hk/
-   Accept-Encoding: gzip,deflate,sdch
-   Accept-Language: zh-CN,zh;q=0.8,en;q=0.6
-   Cookie: authorstyle=yes
-   If-None-Match: "2cc8-3e3073913b100"
-   If-Modified-Since: Wed, 01 Sep 2004 13:24:52 GMT
+   GET /Protocols/rfc2616/rfc2616-sec5.html HTTP/1.1 Host: www.w3.org Connection: keep-alive Cache-Control: max-age=0 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,_/_;q=0.8 User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36 Referer: https://www.google.com.hk/ Accept-Encoding: gzip,deflate,sdch Accept-Language: zh-CN,zh;q=0.8,en;q=0.6 Cookie: authorstyle=yes If-None-Match: "2cc8-3e3073913b100" If-Modified-Since: Wed, 01 Sep 2004 13:24:52 GMT
 
    name=qiu&age=25
 
@@ -620,17 +605,7 @@
 
 - 最后是一个可能的**消息实体** 响应报文例子如下：
 
-  HTTP/1.1 200 OK
-  Date: Tue, 08 Jul 2014 05:28:43 GMT
-  Server: Apache/2
-  Last-Modified: Wed, 01 Sep 2004 13:24:52 GMT
-  ETag: "40d7-3e3073913b100"
-  Accept-Ranges: bytes
-  Content-Length: 16599
-  Cache-Control: max-age=21600
-  Expires: Tue, 08 Jul 2014 11:28:43 GMT
-  P3P: policyref="http://www.w3.org/2001/05/P3P/p3p.xml"
-  Content-Type: text/html; charset=iso-8859-1
+  HTTP/1.1 200 OK Date: Tue, 08 Jul 2014 05:28:43 GMT Server: Apache/2 Last-Modified: Wed, 01 Sep 2004 13:24:52 GMT ETag: "40d7-3e3073913b100" Accept-Ranges: bytes Content-Length: 16599 Cache-Control: max-age=21600 Expires: Tue, 08 Jul 2014 11:28:43 GMT P3P: policyref="http://www.w3.org/2001/05/P3P/p3p.xml" Content-Type: text/html; charset=iso-8859-1
 
   {"name": "qiu", "age": 25}
 
