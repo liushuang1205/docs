@@ -21,9 +21,9 @@
   - [十七、排序算法](web/choiceness/十七、排序算法.md)
   - [十八、计算机知识](web/choiceness/十八、计算机通识.md)
 
-<!--
-- 高频篇
+
+- 精选模块
 
   - [高频模块](web/choiceness/高频模块.md)
   - [面试指南](web/choiceness/面试指南.md)
-  - [性能优化](web/choiceness/性能优化.md) -->
+  - [性能优化](web/choiceness/性能优化.md) 
